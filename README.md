@@ -10,8 +10,6 @@
 🐦 [twitter][twitter] **|**
 👔 [LinkedIn][linkedin]
 
-Shout-out to [Michael Owuor][michael] for the inspiration!
-
 [website]: https://olasunkanmi.dev
 [twitter]: https://twitter.com/sun_kanmi
 [facebook]: https://facebook.com/s3interdev
