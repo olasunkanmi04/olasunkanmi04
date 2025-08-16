@@ -1,7 +1,7 @@
 ### Hi, I am Olasunkanmi👋, I am a Frontend Developer 
 
 - 🔭 I’m currently working with Vue.js, Nuxtjs, and Reactjs.
-- 🌱 I’m currently learning E2E testing, Unit testing and Reactjs.
+- 🌱 I’m currently learning Php, Symphony and Database.
 - 💬 Ask me HTML, CSS, JavaScript, Frontend, Vuejs and building awesome product that solves real problem.
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I love dogs and cats
